@@ -1,4 +1,4 @@
-# ShieldScan - Premium URL Security Analysis Platform
+# ShieldScan-Pro - Premium URL Security Analysis Platform
 
 A production-ready, futuristic cybersecurity SaaS landing page for URL security analysis. Built with pure HTML5, Tailwind CSS, and Vanilla JavaScript.
 
@@ -64,4 +64,5 @@ ShieldScan provides client-side URL validation and redirects to VirusTotal for c
 ---
 
 **Built with ❤️ for the cybersecurity community.**
+
 
