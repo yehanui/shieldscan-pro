@@ -43,24 +43,6 @@ A production-ready, futuristic cybersecurity SaaS landing page for URL security 
 - Pro tips for URL safety
 - Real examples of suspicious vs safe URLs
 
-## Deployment
-
-### GitHub Pages
-1. Push to a GitHub repository
-2. Go to Settings → Pages
-3. Select main branch and root folder
-4. Your site will be live at `https://username.github.io/repository`
-
-### Netlify
-1. Drag and drop the folder to Netlify
-2. Or connect your GitHub repository
-3. Netlify automatically deploys and provides a URL
-
-### Vercel
-1. Install Vercel CLI: `npm i -g vercel`
-2. Run `vercel` in the project directory
-3. Follow the prompts
-
 ## File Structure
 
 shieldscan/
@@ -83,17 +65,6 @@ shieldscan/
 - Firefox 55+
 - Safari 12+
 - Edge 79+
-
-## Customization
-
-1. **Colors**: Edit the CSS variables in the `<style>` section of index.html
-2. **Branding**: Update the logo, name, and favicon
-3. **Content**: Modify text throughout the HTML file
-4. **Animation Duration**: Change 3000ms in main.js to adjust loading time
-
-## License
-
-MIT License - Free for personal and commercial use.
 
 ## Disclaimer
 
