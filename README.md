@@ -43,15 +43,6 @@ A production-ready, futuristic cybersecurity SaaS landing page for URL security 
 - Pro tips for URL safety
 - Real examples of suspicious vs safe URLs
 
-## File Structure
-
-shieldscan/
-├── index.html # Main landing page
-├── main.js # All application logic
-├── styles.css # Additional custom styles
-└── README.md # This file
-
-
 ## Security & Privacy
 
 - **No Data Storage**: URLs never leave the browser
@@ -73,3 +64,4 @@ ShieldScan provides client-side URL validation and redirects to VirusTotal for c
 ---
 
 **Built with ❤️ for the cybersecurity community.**
+
